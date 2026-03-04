@@ -1,0 +1,107 @@
+[
+  {
+    "nome": "Humano",
+    "tipo": "Raça",
+    "descricao": "Os humanos são a mais adaptável e comum das raças, ambiciosos e diversos.",
+    "link": "https://www.dndbeyond.com/races/human",
+    "icon": "ra ra-player"
+  },
+  {
+    "nome": "Elfo",
+    "tipo": "Raça",
+    "descricao": "Seres mágicos de graça sobrenatural, vivendo no mundo sem fazer parte dele inteiramente.",
+    "link": "https://www.dndbeyond.com/races/elf",
+    "icon": "ra ra-leaf"
+  },
+  {
+    "nome": "Anão",
+    "tipo": "Raça",
+    "descricao": "Audazes e resistentes, conhecidos como habilidosos guerreiros, mineradores e trabalhadores em pedra.",
+    "link": "https://www.dndbeyond.com/races/dwarf",
+    "icon": "ra ra-anvil "
+  },
+  {
+    "nome": "Mago",
+    "tipo": "Classe",
+    "descricao": "Um usuário de magia escolado capaz de manipular as estruturas da realidade.",
+    "link": "https://www.dndbeyond.com/classes/wizard",
+    "icon": "ra ra-crystal-wand"
+  },
+  {
+    "nome": "Guerreiro",
+    "tipo": "Classe",
+    "descricao": "Um mestre do combate marcial, perito em uma vasta gama de armas e armaduras.",
+    "link": "https://www.dndbeyond.com/classes/fighter",
+    "icon": "ra ra-sword"
+  },
+  {
+    "nome": "Ladino",
+    "tipo": "Classe",
+    "descricao": "Um trapaceiro que usa furtividade e astúcia para sobrepujar obstáculos e inimigos.",
+    "link": "https://www.dndbeyond.com/classes/rogue",
+    "icon": "ra ra-hood"
+  },
+  {
+    "nome": "Halfling",
+    "tipo": "Raça",
+    "descricao": "O povo pequenino prefere o conforto do lar e da família, mas alguns se aventuram pelo mundo.",
+    "link": "https://www.dndbeyond.com/races/halfling",
+    "icon": "ra ra-footprint"
+  },
+  {
+    "nome": "Draconato",
+    "tipo": "Raça",
+    "descricao": "Nascidos de dragões, como o nome diz, caminham orgulhosamente por um mundo que os teme.",
+    "link": "https://www.dndbeyond.com/races/dragonborn",
+    "icon": "ra ra-dragon"
+  },
+  {
+    "nome": "Gnomo",
+    "tipo": "Raça",
+    "descricao": "O entusiasmo dos gnomos pela vida brilha em cada ação de seus corpos minúsculos.",
+    "link": "https://www.dndbeyond.com/races/gnome",
+    "icon": "ra ra-gear-hammer"
+  },
+  {
+    "nome": "Meio-Elfo",
+    "tipo": "Raça",
+    "descricao": "Caminhando em dois mundos, mas não pertencendo a nenhum, combinam qualidades de ambos os pais.",
+    "link": "https://www.dndbeyond.com/races/half-elf",
+    "icon": "ra ra-gem"
+  },
+  {
+    "nome": "Meio-Orc",
+    "tipo": "Raça",
+    "descricao": "Com a força orc e a adaptabilidade humana, são guerreiros formidáveis e sobreviventes natos.",
+    "link": "https://www.dndbeyond.com/races/half-orc",
+    "icon": "ra ra-monster-skull"
+  },
+  {
+    "nome": "Tiefling",
+    "tipo": "Raça",
+    "descricao": "Assombrados por uma herança infernal, caminham pelas sombras de um mundo que os rejeita.",
+    "link": "https://www.dndbeyond.com/races/tiefling",
+    "icon": "ra ra-flaming-trident"
+  },
+  {
+    "nome": "Bárbaro",
+    "tipo": "Classe",
+    "descricao": "Um guerreiro feroz de origem primitiva que pode entrar em fúria durante o combate.",
+    "link": "https://www.dndbeyond.com/classes/barbarian",
+    "icon": "ra ra-axe"
+  },
+  {
+    "nome": "Bardo",
+    "tipo": "Classe",
+    "descricao": "Um místico inspirador que possui poderes que ecoam a música da criação.",
+    "link": "https://www.dndbeyond.com/classes/bard",
+    "icon": "ra ra-ocarina"
+  },
+  {
+    "nome": "Clérigo",
+    "tipo": "Classe",
+    "descricao": "Um campeão sacerdotal que empunha magia divina a serviço de um poder superior.",
+    "link": "https://www.dndbeyond.com/classes/cleric",
+    "icon": "ra ra-health"
+  }
+]
